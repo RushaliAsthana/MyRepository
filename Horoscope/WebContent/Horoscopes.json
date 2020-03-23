@@ -1,0 +1,19 @@
+{
+	"Horoscopes": {
+		"Signs": [
+			{
+   "Horoscope":"Aries",
+   "image":"zsign/Aries.png"
+},
+{
+   "Horoscope":"Taurus",
+   "image":"zsign/Taurus.png"
+},
+{
+   "Horoscope":"Gemini",
+   "image":"zsign/Gemini.png"
+}
+
+]
+	}
+}
